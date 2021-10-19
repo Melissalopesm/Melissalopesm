@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Melissa Lopes</h1>
+         width="45" />, I'm @Melissalopesm</h1>
 <h5 align="center">
 I laugh at bad jokes, love asian food, album sommelier in my spare time, enjoy kpop, designer, and frontend dev in training. I'm also interested in generative and interactive art, currently learning processing.
 </h5>
