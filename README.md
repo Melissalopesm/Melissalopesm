@@ -3,7 +3,6 @@
          height="45"
          width="45" />, I'm @Melissalopesm</h1>
 <h5 align="center">
-Dou risada de piada ruim, amo comida asiática, sommelier de álbuns nas horas vagas, kpop, designer, e dev front em formação. Tenho interessa em arte generativa e interativa, atualmente estou apendendo processing para criar códigos criativos.
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melissalopesm&label=Profile%20views&color=0e75b6&style=flat" alt="melissalopesm" /> </p>
 <p>
