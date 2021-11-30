@@ -11,8 +11,7 @@
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/185048/screenshots/5095153/media/94a1653392f20c012221afac7ea383f2.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=melissalopesm&count_private=true&theme=radical&show_icons=true" />
-
-- 📫 How to reach me **melissalopesm@outlook.com**
+<!-- - 📫 How to reach me **melissalopesm@outlook.com** -->
 <br><br>
 
 <!-- <hr>
