@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/melissalopesm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> -->
 
-## My Skill Set  
+<!-- ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -69,7 +69,7 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>   -->
 
 
 ## Connect with me  
