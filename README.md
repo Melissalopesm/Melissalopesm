@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Melissa Lopes</h1>
-<h3 align="center">web developer & creative coder</h3>
+<!-- <h3 align="center">Resumo</h3> -->
 
 <a align= "center" href="https://github.com/melissalopesm">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=melissalopesm&theme=dracula">
